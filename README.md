@@ -16,7 +16,7 @@ This project is a Machine Learning model built in Python that predicts news cate
 
 Click the badge below to open and run the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/drive/1oQMEk2byANMmEjnsnaJnH6s5SqwomIzD?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oQMEk2byANMmEjnsnaJnH6s5SqwomIzD?usp=sharing)
 
 ---
 
