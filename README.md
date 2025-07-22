@@ -6,7 +6,7 @@ This project is a Machine Learning model built in Python that predicts news cate
 
 ## 📁 Files Included
 
-- `News_predicition.ipynb`: Google Colab notebook with all code and explanations
+- `News_predicition_ML.ipynb`: Google Colab notebook with all code and explanations
 - `model.pkl`: Saved trained model (if added)
 - `README.md`: Project documentation
 
